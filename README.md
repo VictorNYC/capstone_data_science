@@ -6,7 +6,6 @@ In a nutshell, I created an algorithm that tells you if you can predict the popu
 Using web-scraped data from studio albums available on Spotify in April, I included the following six genres: Pop, Reggaeton, Electronic, Rap, Classical, and Rock. 
 
 Machine learning methods helped show that the popularity of a future song can in fact be predicted. The results also showed that each genre of music has its strength in an audio feature that gives it positive correlation with increasing popularity scores. In contrast, each genre of music has its weakness in an audio feature that has a negative correlation to decreased popularity scores.
-- Slide decks file.
 
 If you are a student, I hope this document helps you! If you are an experienced passioned for data, please I will like to hear feedback or collaborate on any exciting projects.
 
