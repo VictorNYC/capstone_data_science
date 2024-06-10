@@ -1,7 +1,9 @@
 # capstone_project
 
-Over the past few months, I've been working on my Data Science Capstone Project: An Exploratory Data Analysis on how audio features play a role on popularity scores of specific artists and genres. 
+Over the past few months, I've been working on my Data Science Capstone Project, an Exploratory Data Analysis on how audio features play a role on popularity scores of specific artists and genres. 
 🎸🎵🎧🎶🪗🧑🏻‍💻
+
+From raw data I web scraped, I built my own data sets. I self-started statistical  analysis, identifying and interpreting user patterns/trends with a desire to extract actionable insights, discoverting, reporting, measuring & understanding the impact, and drive better fact-based decision-making. I cleaned,  transformed data, and built a data model to predict popularity using linear regression, applying regularization in Python.
 
 In a nutshell, I created an algorithm that tells you if you can predict the popularity of a new song of a popular artist, based solely on statistical methods that include the following audio features: danceability, tempo, “happiness”, acoustic and more, and using web-scraped data from studio albums available on Spotify, I included the following six genres: Pop, Reggaeton, Electronic, Rap, Classical, and Rock. 
 
